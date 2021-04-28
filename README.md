@@ -1,3 +1,3 @@
-# Personal Website
+# Project Website
 
-My personal website (located [willemml.net](willemml.net))
+Website for WICRS (located [wic.rs](https://wic.rs))
