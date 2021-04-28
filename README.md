@@ -1,3 +1,3 @@
 # Project Website
 
-Website for WICRS (located [wic.rs](https://wic.rs))
+Website for WICRS (located at [wic.rs](https://wic.rs))
